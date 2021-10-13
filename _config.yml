@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "이민동"
-  avatar           : "/assets/images/profile/owner.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/profile/owner.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "Republic of Korea"
   email            : "ruqpt@naver.com"
